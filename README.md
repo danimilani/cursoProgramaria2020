@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Esse projeto foi desenvolvido no Curso realizado em Agosto de 2020, disponibilizado pela [Programaria] (https://www.programaria.org/), no qual pude aprender conceitos básicos de HTML, CSS e Javascript e desenvolver um website.
+Esse projeto foi desenvolvido no Curso realizado em Agosto de 2020, disponibilizado pela [Programaria](https://www.programaria.org/), no qual pude aprender conceitos básicos de HTML, CSS e Javascript e desenvolver um website.
 
 Nesse curso eu aprendi, em poucos dias, alguns conceitos básicos de HTML, CSS e Javascript e pude desenvolver um site sobre a Ada Lovelace, que foi a primeira pessoa a escrever um algoritmo para ser processado por uma máquina.
 
