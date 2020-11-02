@@ -18,6 +18,8 @@ Concluído ✅
 
 ## Links Úteis
 
+O site está disponível [aqui.](siteada.mpdani.repl.co/)
+
 O projeto foi compartilhado em um post do Linkedin [aqui.](https://www.linkedin.com/posts/daniella-milani_javascript-html-css-activity-6707408694033879040-a6i2)
 
 ## Autor
